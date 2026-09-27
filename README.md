@@ -1,6 +1,6 @@
 # Michael Scott (The Office) — PeonPing sound pack
 
-58 Michael Scott voice lines from *The Office* (US) for [peon-ping](https://openpeon.com) / any CESP 1.0 player.
+53 Michael Scott voice lines from *The Office* (US) for [peon-ping](https://openpeon.com) / any CESP 1.0 player.
 
 ## Install
 
@@ -13,8 +13,8 @@ peon packs install michael_scott
 | Category | Lines |
 |---|---|
 | session.start | "I am ready to get hurt again", "It's happening", "I am Beyonce always", "Feared or loved? Both", "Wikipedia is the best thing ever", "Good morning Vietnam!" … |
-| task.acknowledge | "Yes. Yes. Yes.", "I need two men on this", "Let's do it", "Forget about it!", "Dude, I'm gonna nail it" … |
-| task.complete | "That's what she said!" ×3, "Boom. Roasted.", "I love it!", "It's Britney, bitch", "I feel God in this Chili's tonight" … |
+| task.acknowledge | "Yes. Yes. Yes.", "I need two men on this", "Forget about it!", "Dude, I'm gonna nail it" … |
+| task.complete | "That's what she said!" ×3, "Boom. Roasted.", "I love it!", "It's Britney, bitch", "I am running away from my responsibilities" … |
 | task.error | "NO GOD! PLEASE NO!", "I am dead inside", "Fool me once, strike one…", "The worst thing about prison was the Dementors" … |
 | input.required | "Explain this to me like I'm five", "What's the procedure, everyone?", "I understand nothing", "I'm a little stitious" … |
 | resource.limit | "I DECLARE BANKRUPTCY!", "I didn't say it, I declared it", "I was not going to be managed" |

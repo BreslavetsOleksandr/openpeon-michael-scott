@@ -3,7 +3,7 @@
   "name": "michael_scott",
   "display_name": "Michael Scott (The Office)",
   "description": "Michael Scott voice lines from The Office (US) — that's what she said, I declare bankruptcy, and more",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": {
     "name": "Oleksandr Breslavets",
     "github": "BreslavetsOleksandr"
@@ -51,7 +51,7 @@
         {
           "file": "sounds/GoodMorningVietnam.wav",
           "label": "Good morning Vietnam!",
-          "sha256": "308d1f7a992449fd0f689eefbebb0e97fbf183e059ef4f59548bc6466ef5e6f0"
+          "sha256": "317ec199f8d28cb8e4ff12ad1be97a22557c8e505f6215f07d37376a96dcdd0f"
         },
         {
           "file": "sounds/MichaelJackson.wav",
@@ -78,19 +78,9 @@
           "sha256": "d6808d9a76c63e796a862bcdcc1c90c6b4731dee524cdd96c2765cee592c4a96"
         },
         {
-          "file": "sounds/LetsDoIt.wav",
-          "label": "Come on, you guys. Let's do it.",
-          "sha256": "615f2bff700d8023e488b81b3f0985a5f2509efbdbc1042a7406db08accb9dd4"
-        },
-        {
           "file": "sounds/OnMyWay.wav",
           "label": "I am on my way.",
           "sha256": "1ed08d1e31f995af894871850bdf4bcffc1876d241fa949177d1aa885b032463"
-        },
-        {
-          "file": "sounds/LetsDoIt2.wav",
-          "label": "Let's do it.",
-          "sha256": "2e58a5206ad4641fd8af92a23888f85c1a82d0c0a5165d1788e670bd971d096b"
         },
         {
           "file": "sounds/StartASentence.wav",
@@ -155,16 +145,6 @@
           "file": "sounds/Britney.wav",
           "label": "It's Britney, bitch.",
           "sha256": "86004de43d6234c3169568f9232403c284ae1c9fd122e1e9714e2e42760e8ab3"
-        },
-        {
-          "file": "sounds/ChilisGod.wav",
-          "label": "I feel God in this Chili's tonight.",
-          "sha256": "f8ed37b31e06b384c799182a4615beaf13748e61fa755d118f1f26012f19fcae"
-        },
-        {
-          "file": "sounds/FreakingAwesome.wav",
-          "label": "This place is freaking awesome.",
-          "sha256": "7fd594f793aeffcbd8eedf435b515672fd7abd38a11beb3e959aae7aca7f5feb"
         }
       ]
     },
@@ -184,11 +164,6 @@
           "file": "sounds/NoIdeaWhatToDo.wav",
           "label": "I knew exactly what to do, but in a much more real sense, I had no idea what to do.",
           "sha256": "9979ff8514d848621370c63dea9f00b2431b04c5b5eeb52c2bbc7f6488bb19ca"
-        },
-        {
-          "file": "sounds/WhyIsThisSoHard.wav",
-          "label": "Why is this so hard?",
-          "sha256": "3f2b17e80306c28fa8454b5afad1f37c845d95aee76a96b8baa04a3e245b2243"
         },
         {
           "file": "sounds/Noooo.wav",
