@@ -3,7 +3,7 @@
   "name": "michael_scott",
   "display_name": "Michael Scott (The Office)",
   "description": "Michael Scott voice lines from The Office (US) — that's what she said, I declare bankruptcy, and more",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "Oleksandr Breslavets",
     "github": "BreslavetsOleksandr"
@@ -183,7 +183,7 @@
         {
           "file": "sounds/NoIdeaWhatToDo.wav",
           "label": "I knew exactly what to do, but in a much more real sense, I had no idea what to do.",
-          "sha256": "51502431fe09fb7311eeb36b74fb3078b4ad902b1492646b536433ca5ed6a9c7"
+          "sha256": "9979ff8514d848621370c63dea9f00b2431b04c5b5eeb52c2bbc7f6488bb19ca"
         },
         {
           "file": "sounds/WhyIsThisSoHard.wav",
@@ -202,8 +202,8 @@
         },
         {
           "file": "sounds/FoolMeOnce.wav",
-          "label": "Fool me once, strike one. But fool me twice, strike three.",
-          "sha256": "cc8f756f586be4fde182729715a02b0e4dc0eb0b8a6e5418c9cfa0a623ceb00e"
+          "label": "Fool me once, strike one. But fool me twice...",
+          "sha256": "b0143c8e834b4d545f1f493bf22c0cc652cf1ffa365436332ba7a74c873680c3"
         },
         {
           "file": "sounds/Dementors.wav",
@@ -306,16 +306,6 @@
           "file": "sounds/WaitWait.wav",
           "label": "Wait, wait, wait, wait, wait.",
           "sha256": "4bd9519a5608b635b9b05590681194ba00adab879a02266495d7b07c1d26c2c0"
-        },
-        {
-          "file": "sounds/FunOrExciting.wav",
-          "label": "Every time I try to do something fun or exciting, you make it not that way.",
-          "sha256": "6fa835c6b1f551a2fdc39e93ccc31a382c24ce03ba1e5a495347203a88658e76"
-        },
-        {
-          "file": "sounds/HateSoMuch.wav",
-          "label": "I hate so much about the things that you choose to be.",
-          "sha256": "6278c7ed1a9e7dcdf6e6c8e58fa03ee546293cf04e23d18c1068d6dbda0b7cf3"
         },
         {
           "file": "sounds/AnnoyedFriendship.wav",

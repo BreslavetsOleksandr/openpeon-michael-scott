@@ -1,6 +1,6 @@
 # Michael Scott (The Office) — PeonPing sound pack
 
-60 Michael Scott voice lines from *The Office* (US) for [peon-ping](https://openpeon.com) / any CESP 1.0 player.
+58 Michael Scott voice lines from *The Office* (US) for [peon-ping](https://openpeon.com) / any CESP 1.0 player.
 
 ## Install
 
