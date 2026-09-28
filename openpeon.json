@@ -3,7 +3,7 @@
   "name": "michael_scott",
   "display_name": "Michael Scott (The Office)",
   "description": "Michael Scott voice lines from The Office (US) — that's what she said, I declare bankruptcy, and more",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "author": {
     "name": "Oleksandr Breslavets",
     "github": "BreslavetsOleksandr"
@@ -222,7 +222,7 @@
         {
           "file": "sounds/AttentionEveryone.wav",
           "label": "Attention. Attention. Attention, everyone!",
-          "sha256": "e839dfe683754b83cb8c335a7595ea1832e7c5657346ecab7e40ef78bd0d15fb"
+          "sha256": "0dfd4b370c60d9e9ca731928e12ee69c99eb795411b157f7842f83f4e4c070ca"
         },
         {
           "file": "sounds/AttentionEmployees.wav",
