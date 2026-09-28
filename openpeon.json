@@ -3,7 +3,7 @@
   "name": "michael_scott",
   "display_name": "Michael Scott (The Office)",
   "description": "Michael Scott voice lines from The Office (US) — that's what she said, I declare bankruptcy, and more",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "author": {
     "name": "Oleksandr Breslavets",
     "github": "BreslavetsOleksandr"
@@ -16,52 +16,47 @@
         {
           "file": "sounds/ReadyToGetHurt.wav",
           "label": "No question about it, I am ready to get hurt again.",
-          "sha256": "adfa22f7f738094c0d65cd59200f6f5e18b00eb327e7bf302f92bc21f0e60667"
+          "sha256": "b7ad782918afe03e9357408a5e53b4c921168a1f08cc9a483c8ce678ec72dc0a"
         },
         {
           "file": "sounds/ItsHappening.wav",
           "label": "Oh my God! Okay, it's happening.",
-          "sha256": "17f3d91a5736992f25d5c72c3e9b4dd2d845fd63f3db6a88e0bb39a53a8fdbbd"
+          "sha256": "47b34c506932d1b1b9b1042f2668af413ea3e4d0ef0259677c6fc17000808f66"
         },
         {
           "file": "sounds/BestBoss.wav",
           "label": "People say I am the best boss.",
-          "sha256": "9296f38a740b5341458d063b9e2ded4d31dac9c439971840a7c7566ac8a0046e"
+          "sha256": "f3c5c7b1ec6e4685863235ad0b2604868c742ea9b34401cd12cad156504f98d3"
         },
         {
           "file": "sounds/Beyonce.wav",
           "label": "I am Beyonce always.",
-          "sha256": "e642b9ba8bfdd44a40497024691e33f3fc676117d7b525f8230d04c07be0ff92"
+          "sha256": "af49e89324d0238fc80bfa61e245b07c126ddd3e8a9c7b59e21217cd1fd72d15"
         },
         {
           "file": "sounds/FearedOrLoved.wav",
           "label": "Would I rather be feared or loved? Um, easy, both.",
-          "sha256": "9d88307175df2d1c412b1c4a62ebbf4f7c999d77d4d06272f45449bf1f2d0c08"
+          "sha256": "c6820bb167ad236ace941f49e60c9128ef4c89d6e4415f40fb0173f48dbf3a34"
         },
         {
           "file": "sounds/EarlyBird.wav",
           "label": "I'm an early bird and I'm a night owl, so I'm wise and I have worms.",
-          "sha256": "660810cf7204c34296043ed097662cb99ea73f5120953a263fdf2e08272cf8a1"
+          "sha256": "e48d267356ba646875151104ee0d51c6990627a0852597a515b1930d6be55de9"
         },
         {
           "file": "sounds/Wikipedia.wav",
           "label": "Wikipedia is the best thing ever.",
-          "sha256": "7c09295a6cec47d15a9f580b0582553cbf56139975bfe10bdac27228f8a73423"
+          "sha256": "cb3a69677ba645e0978b0046f132b85da3a20019248ac5f72511c82ba281299c"
         },
         {
           "file": "sounds/GoodMorningVietnam.wav",
           "label": "Good morning Vietnam!",
-          "sha256": "317ec199f8d28cb8e4ff12ad1be97a22557c8e505f6215f07d37376a96dcdd0f"
-        },
-        {
-          "file": "sounds/MichaelJackson.wav",
-          "label": "This is Michael Jackson.",
-          "sha256": "31501410f1726fec330cad24acafc24dc893f87ddc21d39bfccb87d06bae6fc5"
+          "sha256": "f9e96eba367be005a5a37ab7c43ab279c400b33f57e6ee8fa6f416f8dd1270a7"
         },
         {
           "file": "sounds/SaddamHussein.wav",
           "label": "Hey, Ryan, this is Saddam Hussein.",
-          "sha256": "e45f0a541591c2509791911be54385e68ce19cb6b87e82a25336c9f6ecd7c92d"
+          "sha256": "4efe90033ca705426c7b2029001ce4a980b22a68dafa409afc3f5f4aa0243327"
         }
       ]
     },
@@ -70,32 +65,27 @@
         {
           "file": "sounds/YesYesYes.wav",
           "label": "Yes. Yes. Yes.",
-          "sha256": "9048cf62e76b8c2485926aaa4f99b888025b7984f2cdbe8f149f02a67092aeda"
+          "sha256": "1d5d3c2b2e9377094909ccb864c8b0e397b20c3e91249b82b6b4736acadcb24d"
         },
         {
           "file": "sounds/TwoMen.wav",
           "label": "I need two men on this.",
-          "sha256": "d6808d9a76c63e796a862bcdcc1c90c6b4731dee524cdd96c2765cee592c4a96"
-        },
-        {
-          "file": "sounds/OnMyWay.wav",
-          "label": "I am on my way.",
-          "sha256": "1ed08d1e31f995af894871850bdf4bcffc1876d241fa949177d1aa885b032463"
+          "sha256": "04cf63d24c52c586bd6779a4c4cc725d68a30aea3c133de55878fefe65a57482"
         },
         {
           "file": "sounds/StartASentence.wav",
           "label": "Sometimes I'll start a sentence, and I don't even know where it's going.",
-          "sha256": "a03021a44f9d81ccae9c8bd799b3a6f81af950f933bac402523cdff1c8901dbc"
+          "sha256": "8731fa2e67270d8930f7a9bd6647b72bb1f74e5d0c7e49d03658ee1c48f52a43"
         },
         {
           "file": "sounds/ForgetAboutIt.wav",
           "label": "Forget about it!",
-          "sha256": "8195c324cc361f4208feef09af4a11abea893decdc15935fa49f3e482ff48b6b"
+          "sha256": "bcc7149541c69c6c1c9a7e830d483cc898f0ec38d04b2b5f52907f0f7209592c"
         },
         {
           "file": "sounds/GonnaNailIt.wav",
           "label": "Dude, I'm gonna nail it.",
-          "sha256": "81c3e606b54504f84e580ed370f87ff5012b2ac7e5f2ef7bf1964fac067062bb"
+          "sha256": "e260041fe07b2f14553eb99fda6ea3ff34de344542356d59590078644eb7a545"
         }
       ]
     },
@@ -104,47 +94,47 @@
         {
           "file": "sounds/TWSS1.wav",
           "label": "That's what she said!",
-          "sha256": "006a9ceee59129cd485cbe2180b8f8601f4fb0399c7740f2c6b47951c1558a53"
+          "sha256": "ae386fd2c64357390fcfd9c67a0e948ed129fc02f1de91503d40d072991c59d7"
         },
         {
           "file": "sounds/TWSS2.wav",
           "label": "That's what she said!",
-          "sha256": "3a5f3b42db9cd16dcad6319948610c4c01c44baa790f6f9769d90be0e64ddc74"
+          "sha256": "f4ba09fdf988ed2ea4b5074d55de75249756919c363f14272e0058fc14ba1f1b"
         },
         {
           "file": "sounds/TWSS3.wav",
           "label": "That's what she said.",
-          "sha256": "7f3568923aff0a55c03c713e2365784157151f36435ba93abd0cc25d655cd9b2"
+          "sha256": "ea6c1175f9d9e5c640b4634c2a54d1b0a0eb4ee46fbc7359ce118d67885f7749"
         },
         {
           "file": "sounds/BoomRoasted.wav",
           "label": "Boom. Roasted.",
-          "sha256": "0b654f3cfe13b96433095244445765140caf1a99cdd2e6b0f0182d1887962693"
+          "sha256": "da5dfcd8a33cfcb085b535efd4276d0c71855c1e71bdf5d317189b48e88571b5"
         },
         {
           "file": "sounds/RunningAway.wav",
           "label": "I am running away from my responsibilities. It feels good.",
-          "sha256": "a7e0cecb373a68a9a9d0369c83174be45065fa1d680fa19685fbf9f99c872ae3"
+          "sha256": "cd55412981052a7d0f1d9fd64ec8e1b1389534e7da02b9c48221d0c280278352"
         },
         {
           "file": "sounds/ThankYou.wav",
           "label": "Thank you!",
-          "sha256": "e396a3e0c7c8270e4cc9b63ac83e9224af04edbc0de36207a6328fc3b8485e1d"
+          "sha256": "cda08beaaf4d463f59b03affa10499cbd52227f97dd951f1de8a9a3bfcd66ce1"
         },
         {
           "file": "sounds/LoveIt.wav",
           "label": "I love it!",
-          "sha256": "31687f3d185336de76a052a9975885cb008fd1e92b134089b3d565167e9c2cf7"
+          "sha256": "d1ffabcedf76c5bb0267ac262219445bd6f0f70d7f84d9f8cac725b950095a2e"
         },
         {
           "file": "sounds/LoveItMore.wav",
           "label": "I love it. I love it more. I love it!",
-          "sha256": "4b7652a68187c5130557d314bf32ffc7557c31b15f2bee1750d4fc64e0eb18d4"
+          "sha256": "743847adc4eda7af0e96fe98b5c3e0937b2cdac5d4e2144e6f8bae9e48d2f39e"
         },
         {
           "file": "sounds/Britney.wav",
           "label": "It's Britney, bitch.",
-          "sha256": "86004de43d6234c3169568f9232403c284ae1c9fd122e1e9714e2e42760e8ab3"
+          "sha256": "4eb5e8cc665066335edd8889fab44a47c8d522be5d88eb20bfe3a566ae72a838"
         }
       ]
     },
@@ -153,37 +143,32 @@
         {
           "file": "sounds/NoGodPleaseNo.wav",
           "label": "NO GOD! PLEASE NO!",
-          "sha256": "5cd8f730f722f4424fe1d90a8e9b7405b7be18e857f00323ae8520981db6fac1"
+          "sha256": "d609108b9e6d89b3894572e7be45bb2c6ea2b6da8bb29f0935df55e4500d3a8a"
         },
         {
           "file": "sounds/NoooGod.wav",
           "label": "NOOO GOD!",
-          "sha256": "922b5238bc7da62c874e581df38645567b43ef3a30a5da524f22d8a1481a319d"
+          "sha256": "90690a04cf81259ba76f9e54c1955e74bffc713d42a2494bcb1280d60af330e4"
         },
         {
           "file": "sounds/NoIdeaWhatToDo.wav",
           "label": "I knew exactly what to do, but in a much more real sense, I had no idea what to do.",
-          "sha256": "9979ff8514d848621370c63dea9f00b2431b04c5b5eeb52c2bbc7f6488bb19ca"
+          "sha256": "ec951c1d589afab6a7f8c99e885d15b4f3c66883dab41a1d389d09a12dec8541"
         },
         {
           "file": "sounds/Noooo.wav",
           "label": "NOOOOOOO!",
-          "sha256": "43ebe9199a662d42ac4db65f2e72577eb09223994b09a912e9cc089cba209eec"
+          "sha256": "4cf6dafae9f8ddc42fbe1587a9f63f14b3c451719a6a617630325713a8f83acb"
         },
         {
           "file": "sounds/DeadInside.wav",
           "label": "I am dead inside.",
-          "sha256": "2e79523992abb748b9fb1b7c7715d38c0cfcb4370cb0d2e622f15cef8b93e92b"
+          "sha256": "84a11b50aa736d795e46b9d183d002739e769a180640e2e5db08781e0690171c"
         },
         {
           "file": "sounds/FoolMeOnce.wav",
           "label": "Fool me once, strike one. But fool me twice...",
-          "sha256": "b0143c8e834b4d545f1f493bf22c0cc652cf1ffa365436332ba7a74c873680c3"
-        },
-        {
-          "file": "sounds/Dementors.wav",
-          "label": "The worst thing about prison was the Dementors.",
-          "sha256": "9fa67041e39678d1e447aadc7f090eea3d82c84634f5ff57aee8a267826dc7c2"
+          "sha256": "a7fb3dc93414bcc277f7df7bdde52397dfb2b8fc7a84b277b84e18a43b3009f1"
         }
       ]
     },
@@ -192,42 +177,62 @@
         {
           "file": "sounds/ExplainLikeFive.wav",
           "label": "Why don't you explain to me like I'm five.",
-          "sha256": "597cfbbd8dd939c7dfd8f6d8b611089ef0c1014182c9846f260504ad38e9801a"
+          "sha256": "f35e1f7f02c7a80015da37e2ad2374fc4ec55a755396118a2782749681a6995c"
         },
         {
           "file": "sounds/ExplainLikeEight.wav",
           "label": "Why don't you explain this to me like I am an eight-year-old.",
-          "sha256": "5d56ab7c437633947991c399ef1942119d251bccabd6f94c09dbbc61239f6e9d"
+          "sha256": "105c4fc4b1e10d13ab9bcb45ac149dac72d683af87034098c541d97806aeacc0"
         },
         {
           "file": "sounds/WhatDoWeDo.wav",
-          "label": "What do we do, people?",
-          "sha256": "93fb9df63085644bd0a3882784269713b9565c117cb9ae4f26327cdd2afa1fce"
-        },
-        {
-          "file": "sounds/WhatsTheProcedure.wav",
-          "label": "What's the procedure, everyone? What's the procedure?",
-          "sha256": "05de2c8b6ca89ac8007a69ab797c65ba925136518fb890ca2ca7244690466caa"
+          "label": "What do we do?",
+          "sha256": "4ce16266a11176011fab09f43ed5a7b3fd142e498c7aca32fded7dfb754d1343"
         },
         {
           "file": "sounds/Sex.wav",
           "label": "Excuse me everyone, SEX!",
-          "sha256": "352699030863be8b220cf7e8e98b1f273a3b776fc5610d7a2859db67207ee145"
+          "sha256": "98a81e886a0d80f5881c5043bd9314bd739985dbc0a842ca84886a2e3dc83c5c"
         },
         {
           "file": "sounds/SexAttention.wav",
           "label": "Excuse me everyone, SEX! Now that I have your attention.",
-          "sha256": "5bb2ffd95471507083c25283387efbc1b9abc0f192607856ebbea602486efb5c"
+          "sha256": "792a330d8142dde50d085a7598ba0f93325be592ce73543eab9f08d797d866ae"
         },
         {
           "file": "sounds/Stitious.wav",
           "label": "I'm not superstitious, but I am a little stitious.",
-          "sha256": "3abe35d9fdd44aa2a40b49108d0a0a1250f7cb9fa458954cdad7e57ecb7f9db9"
+          "sha256": "0bc4ed38d35ee9166f5cbd22c1d1be8049c2e3d63af0f4a6791add601ae2f1ee"
+        },
+        {
+          "file": "sounds/ConferenceRoom.wav",
+          "label": "Okay, everyone, conference room, right now!",
+          "sha256": "275848d86f5b8e10cd408673cecfafe185626faa155178c015093254ec345424"
+        },
+        {
+          "file": "sounds/AnyIdeas.wav",
+          "label": "Anybody have any ideas what we could do? Any suggestions?",
+          "sha256": "e5dcc39ffdd61527a92b97b8b38fe3b37da4054c091e1a38ecb46361ee608a76"
+        },
+        {
+          "file": "sounds/EveryonesAttention.wav",
+          "label": "Excuse me, can I have everyone's attention for a second?",
+          "sha256": "1d81db30c757de486d73ceea20d72e0a51bf1226bb711d067fc8c90c58acc280"
+        },
+        {
+          "file": "sounds/AttentionEveryone.wav",
+          "label": "Attention. Attention. Attention, everyone!",
+          "sha256": "e839dfe683754b83cb8c335a7595ea1832e7c5657346ecab7e40ef78bd0d15fb"
+        },
+        {
+          "file": "sounds/AttentionEmployees.wav",
+          "label": "Attention, employees of Dunder Mifflin!",
+          "sha256": "6f0d01f2e4f1a8037db3fad2b39c4405e1819666f1075bcce99e863877c4a0b2"
         },
         {
           "file": "sounds/UnderstandNothing.wav",
           "label": "I understand nothing.",
-          "sha256": "c9cd68b484c5e26e2dde020bb9af149b44cbf6e762391f73653432b21d5cbcde"
+          "sha256": "bbebb994a18ec70eefd22b19fcc1ef48109b2d6581184e58f4c8b3b2fdf72b32"
         }
       ]
     },
@@ -236,22 +241,7 @@
         {
           "file": "sounds/DeclareBankruptcy.wav",
           "label": "I DECLARE BANKRUPTCY!",
-          "sha256": "027917fa12feb8906a951e7d0b0b0c848d95a707641e7968e5d6d57608641da5"
-        },
-        {
-          "file": "sounds/DeclareBankruptcy2.wav",
-          "label": "I DECLARE BANKRUPTCY!",
-          "sha256": "e054d912e21cd5d4a84804135851e85bc88f9fcfaed524bbe7390e7a2c33f216"
-        },
-        {
-          "file": "sounds/DeclaredIt.wav",
-          "label": "I didn't say it, I declared it.",
-          "sha256": "26abe02a33e7318e363d6b3c24bf82c89f120ee41d3cbb8d2f258486550e95e6"
-        },
-        {
-          "file": "sounds/NotManaged.wav",
-          "label": "David, it was my understanding that I was not going to be managed.",
-          "sha256": "6f31522a5ff9ccc3610859aa8e02e635732247589d87ddb3152eb54d4810ee11"
+          "sha256": "ed2cdc35eb21b862c812fec54595c7a28f619267d60081bfa704f4d4b7cf3dfe"
         }
       ]
     },
@@ -260,47 +250,32 @@
         {
           "file": "sounds/WhyAreYouTheWay.wav",
           "label": "Why are you the way that you are?",
-          "sha256": "5e7b74568a4224a71d95f67955e58457c29d2f5d53747483accc045cca07e127"
+          "sha256": "9eb4c30b53ef90c0758525a431c3d0b08daab08d350aa0d30c5fb39eadc15030"
         },
         {
           "file": "sounds/Turntables.wav",
           "label": "Well, well, well. How the turntables.",
-          "sha256": "80f762bf7a25bd80331217df641c7a9451de63bb2c62e39c21ead2e04a58ded6"
+          "sha256": "b29eff4cb6637b54b29663091df76c27d2b30c5e7578cd83e9a4f0f2832eeaf5"
         },
         {
           "file": "sounds/StayCalm.wav",
           "label": "Stay f***ing calm!",
-          "sha256": "edfab7ca4c67d00628b6bf26ffddc33dafbfa53b2c498cca61c0955ca75e8c96"
+          "sha256": "117e99e16e762e302bdb19b9abc5d9200f8025b7b61ab55417f81692304505ad"
         },
         {
           "file": "sounds/CalmDown.wav",
           "label": "Everybody just f***ing calm down!",
-          "sha256": "122c2d9955d1c44fe1fad0337e37f8d68758142f5e6be456cc85913165b35ffc"
-        },
-        {
-          "file": "sounds/WaitWait.wav",
-          "label": "Wait, wait, wait, wait, wait.",
-          "sha256": "4bd9519a5608b635b9b05590681194ba00adab879a02266495d7b07c1d26c2c0"
+          "sha256": "825719f24c6f1f2a7b11c43b2319fdb93a1478489057aae332082229ca52f9b3"
         },
         {
           "file": "sounds/AnnoyedFriendship.wav",
           "label": "Sorry I annoyed you with my friendship.",
-          "sha256": "789097b2e8eb005941634ba9dac9e01b19fc9bf31e09a2ec0134a7d7a70e8f12"
+          "sha256": "84732ead3041fd7dba892f92a6939aa11580983e8fe67bee2558b008d39a9ec2"
         },
         {
           "file": "sounds/NeedToBeLiked.wav",
           "label": "Do I need to be liked? Absolutely not.",
-          "sha256": "fd90f8f5a76cff0e23f82f1b8852622571a51a072fde3b68934ced74b8d313c2"
-        },
-        {
-          "file": "sounds/UngratefulBiatch.wav",
-          "label": "Yeah, well I'm calling the Ungrateful Biatch Hotline!",
-          "sha256": "5546f86fc3d471ef1a800c31885dda20b173f932d45457708893e278e7e7405b"
-        },
-        {
-          "file": "sounds/GirlfriendMad.wav",
-          "label": "Hey, Ryan, this is your girlfriend. And I'm mad.",
-          "sha256": "d6a0dc2fb0362f61bd34ec10d305a897301738defe1215f28bb95a5cc4318c25"
+          "sha256": "18e411d826b33c3cea4e4097052a4d4cbad018a7dacf62b1f23d81df63473a65"
         }
       ]
     }
